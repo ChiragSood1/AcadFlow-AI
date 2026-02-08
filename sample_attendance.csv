@@ -1,0 +1,16 @@
+student_id,subject,date,status
+STU001,Mathematics,2025-01-15,Present
+STU001,Mathematics,2025-01-16,Present
+STU001,Mathematics,2025-01-17,Absent
+STU001,Mathematics,2025-01-18,Present
+STU001,Physics,2025-01-15,Present
+STU001,Physics,2025-01-16,Absent
+STU002,Mathematics,2025-01-15,Present
+STU002,Mathematics,2025-01-16,Present
+STU002,Mathematics,2025-01-17,Present
+STU002,Physics,2025-01-15,Absent
+STU002,Physics,2025-01-16,Absent
+STU003,Mathematics,2025-01-15,Absent
+STU003,Mathematics,2025-01-16,Absent
+STU003,Mathematics,2025-01-17,Absent
+STU003,Physics,2025-01-15,Absent

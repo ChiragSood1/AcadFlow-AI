@@ -1,0 +1,13 @@
+student_id,subject,assessment,marks_obtained,marks_total
+STU001,Mathematics,Midterm,85,100
+STU001,Mathematics,Final,92,100
+STU001,Physics,Midterm,78,100
+STU001,Physics,Final,88,100
+STU002,Mathematics,Midterm,95,100
+STU002,Mathematics,Final,98,100
+STU002,Physics,Midterm,89,100
+STU002,Physics,Final,91,100
+STU003,Mathematics,Midterm,45,100
+STU003,Mathematics,Final,52,100
+STU003,Physics,Midterm,38,100
+STU003,Physics,Final,42,100
